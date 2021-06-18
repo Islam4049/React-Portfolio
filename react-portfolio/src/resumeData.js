@@ -1,14 +1,13 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/Islam4049/",
-    "name": "Ariful Islam",
     "role": "Fullstack Web Developer",
-    "linkedinId":"linkedin.com/in/ariful-islam-5326871b6",
+    "linkedinId":"linkedin.com/in/ariful-islam89",
     "skypeid": "Your skypeid",
     "roleDescription": "I am fullstack web developer, I like to make websites and develope apps and make youtube videos in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/ariful-islam-5326871b6/",
+          "url":"https://www.linkedin.com/in/ariful-islam49/",
           "className":"fa fa-linkedin"
         },
         {
@@ -22,43 +21,50 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Currently I'm enrolled in Rugers University as a Fullstack Flex Student to complete my graduation in Web Development",
+    "aboutme":"I'm gradute from Rutge University Bootcamp in Fullstack Flex Web Development in Mach 2021",
     "address":"NewJersey,USA",
-    "website":"https://islam4049.github.io",
+    "website":"https://islam4049.github.io/new-portfolio/",
     "education":[
       {
         "UniversityName":"Rutgers University Boot camp",
-        "specialization":"Fullstack Web Developer",
+        "Specialization":"Fullstack Web Developer",
         "MonthOfPassing":"Mar",
         "YearOfPassing":"2021",
-        "Achievements":"Working scrach to MERN Specialist"
+        "Achievements":"Working from scrach to MERN Specialist and React.js" 
+      },
+      {
+        "UniversityName":"Khulna BL College",
+        "Specialization":"Biology",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2010",
+        "Achievements":"Bechelor of Science"
       },
       {
         "UniversityName":"Khulna College",
-        "specialization":"Biology",
-        "MonthOfPassing":"may",
-        "YearOfPassing":"2010",
-        "Achievements":"Have some credits for Biology"
+        "Specialization":"H.S.C",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2006",
+        "Achievements":"High School Deploma"
       }
     ],
-    "work":[
+    "Work":[
       {
         "CompanyName":"Therealreal;Inc ",
-        "specialization":"Exception Specialist",
+        "Specialization":"Exception Specialist",
         "MonthOfLeaving":"april",
         "YearOfLeaving":"2017",
         "Achievements":"Best Employee in Inventory dep."
       },
       {
         "CompanyName":"Amazon.com",
-        "specialization":"Order Reciever",
-        "MonthOfLeaving":"sep",
+        "Specialization":"Order Reciever",
+        "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2016",
         
       },
     
     ],
-    "skillsDescription":"I'm experienced as FrontEnd and BackEnd:",
+    "SkillsDescription":"I'm experienced as FrontEnd and BackEnd:",
     "skills":[
       
       {
@@ -82,7 +88,7 @@ let resumeData = {
       {
         "name":"https://fast-dawn-07792.herokuapp.com/",
       "description":"mobileapp",
-      "imgurl":"images/basket-ball.jpg"
+      "imgurl":"images/nba1.jpg"
         
       },
       {
